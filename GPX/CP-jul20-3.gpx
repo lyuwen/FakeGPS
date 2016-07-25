@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+ 
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="bikehike.co.uk" version="1.1" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <wpt lat="40.765927" lon="-73.973406">
+      <ele>0</ele>
+      <time>2016-07-21T03:53:29Z</time>
+      <name>pt0</name>
+    </wpt>
+    <wpt lat="40.766017" lon="-73.973524">
+      <ele>0</ele>
+      <time>2016-07-21T03:53:31Z</time>
+      <name>pt1</name>
+    </wpt>
+    <wpt lat="40.766277" lon="-73.973460">
+      <ele>0</ele>
+      <time>2016-07-21T03:53:37Z</time>
+      <name>pt2</name>
+    </wpt>
+    <wpt lat="40.766301" lon="-73.973562">
+      <ele>0</ele>
+      <time>2016-07-21T03:53:38Z</time>
+      <name>pt3</name>
+    </wpt>
+    <wpt lat="40.766102" lon="-73.973664">
+      <ele>0</ele>
+      <time>2016-07-21T03:53:43Z</time>
+      <name>pt4</name>
+    </wpt>
+    <wpt lat="40.765948" lon="-73.973465">
+      <ele>0</ele>
+      <time>2016-07-21T03:53:47Z</time>
+      <name>pt5</name>
+    </wpt>
+    <wpt lat="40.765793" lon="-73.973648">
+      <ele>0</ele>
+      <time>2016-07-21T03:53:51Z</time>
+      <name>pt6</name>
+    </wpt>
+    <wpt lat="40.765619" lon="-73.973658">
+      <ele>0</ele>
+      <time>2016-07-21T03:53:55Z</time>
+      <name>pt7</name>
+    </wpt>
+    <wpt lat="40.765403" lon="-73.973862">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:01Z</time>
+      <name>pt8</name>
+    </wpt>
+    <wpt lat="40.765172" lon="-73.973953">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:06Z</time>
+      <name>pt9</name>
+    </wpt>
+    <wpt lat="40.765086" lon="-73.973744">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:09Z</time>
+      <name>pt10</name>
+    </wpt>
+    <wpt lat="40.765103" lon="-73.973567">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:12Z</time>
+      <name>pt11</name>
+    </wpt>
+    <wpt lat="40.764965" lon="-73.973229">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:18Z</time>
+      <name>pt12</name>
+    </wpt>
+    <wpt lat="40.764944" lon="-73.972805">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:25Z</time>
+      <name>pt13</name>
+    </wpt>
+    <wpt lat="40.764916" lon="-73.973186">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:31Z</time>
+      <name>pt14</name>
+    </wpt>
+    <wpt lat="40.764737" lon="-73.973240">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:35Z</time>
+      <name>pt15</name>
+    </wpt>
+    <wpt lat="40.764623" lon="-73.973122">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:38Z</time>
+      <name>pt16</name>
+    </wpt>
+    <wpt lat="40.764558" lon="-73.973090">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:39Z</time>
+      <name>pt17</name>
+    </wpt>
+    <wpt lat="40.764900" lon="-73.972768">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:48Z</time>
+      <name>pt18</name>
+    </wpt>
+    <wpt lat="40.765127" lon="-73.972816">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:53Z</time>
+      <name>pt19</name>
+    </wpt>
+    <wpt lat="40.765391" lon="-73.972645">
+      <ele>0</ele>
+      <time>2016-07-21T03:54:59Z</time>
+      <name>pt20</name>
+    </wpt>
+    <wpt lat="40.765680" lon="-73.972446">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:05Z</time>
+      <name>pt21</name>
+    </wpt>
+    <wpt lat="40.765777" lon="-73.972639">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:09Z</time>
+      <name>pt22</name>
+    </wpt>
+    <wpt lat="40.765594" lon="-73.972789">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:14Z</time>
+      <name>pt23</name>
+    </wpt>
+    <wpt lat="40.765635" lon="-73.972902">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:16Z</time>
+      <name>pt24</name>
+    </wpt>
+    <wpt lat="40.765476" lon="-73.973004">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:19Z</time>
+      <name>pt25</name>
+    </wpt>
+    <wpt lat="40.765517" lon="-73.973063">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:20Z</time>
+      <name>pt26</name>
+    </wpt>
+    <wpt lat="40.765639" lon="-73.973052">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:23Z</time>
+      <name>pt27</name>
+    </wpt>
+    <wpt lat="40.765680" lon="-73.973138">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:25Z</time>
+      <name>pt28</name>
+    </wpt>
+    <wpt lat="40.765757" lon="-73.973160">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:26Z</time>
+      <name>pt29</name>
+    </wpt>
+    <wpt lat="40.765932" lon="-73.973396">
+      <ele>0</ele>
+      <time>2016-07-21T03:55:31Z</time>
+      <name>pt30</name>
+    </wpt>
+</gpx>
