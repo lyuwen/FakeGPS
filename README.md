@@ -1,3 +1,4 @@
+# FakeGPS
 1. Open with newest xcode. Change Bundle Identifier.
 2. Run, and deal with any issues on prompt.
 3. When the app is running, find the location button on the bottom of the xcode.

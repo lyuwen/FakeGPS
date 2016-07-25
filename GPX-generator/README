@@ -1,9 +1,0 @@
-To generate a new gpx route
-visit http://www.bikehike.co.uk/mapview.php
-Draw whatever you like
-You can switch off Follow Road(Google Map) option, this option will automatically generate a route betwenn points that follows the road direction.
-Click Save map, select "gpx route" and "download to file". Set a title and speed.
-Click "Download route"
-run processGPX code with
-$ ./processGPX [GPX Filename]
-one file at a time
