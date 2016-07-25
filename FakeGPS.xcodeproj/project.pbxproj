@@ -7,20 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E80693961D3FCE6500371213 /* columbia-law.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E80693951D3FCE6500371213 /* columbia-law.gpx */; };
-		E80693981D3FCF1A00371213 /* theChurch.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E80693971D3FCF1A00371213 /* theChurch.gpx */; };
-		E80C5EE21D451CBD009A77E7 /* 106Bsp-church.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E80C5EE11D451CBD009A77E7 /* 106Bsp-church.gpx */; };
-		E80C5EEC1D4520E7009A77E7 /* 106Bsp-riversd.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E80C5EEB1D4520E7009A77E7 /* 106Bsp-riversd.gpx */; };
-		E80C5EEE1D4520ED009A77E7 /* riversd-106Bsp.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E80C5EED1D4520ED009A77E7 /* riversd-106Bsp.gpx */; };
-		E80C5EF01D452615009A77E7 /* h106-jul24-1f.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E80C5EEF1D452615009A77E7 /* h106-jul24-1f.gpx */; };
-		E80C5EF21D452A52009A77E7 /* h106-jul24-2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E80C5EF11D452A52009A77E7 /* h106-jul24-2.gpx */; };
-		E80C5EF41D452B3C009A77E7 /* h106-jul24-2-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E80C5EF31D452B3C009A77E7 /* h106-jul24-2-1.gpx */; };
-		E8283CBC1D4070D200DE5CDA /* CP-jul20-3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8283CB91D4070D200DE5CDA /* CP-jul20-3.gpx */; };
-		E8283CBD1D4070D200DE5CDA /* CP-jul20-2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8283CBA1D4070D200DE5CDA /* CP-jul20-2.gpx */; };
-		E8283CBE1D4070D200DE5CDA /* CP-jul20-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8283CBB1D4070D200DE5CDA /* CP-jul20-1.gpx */; };
-		E83832CC1D445786006C91F7 /* CP-jul23-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E83832CB1D445786006C91F7 /* CP-jul23-1.gpx */; };
-		E83832CE1D4460B0006C91F7 /* CP-pos-3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E83832CD1D4460B0006C91F7 /* CP-pos-3.gpx */; };
-		E83832D01D4463C5006C91F7 /* CP-jul23-2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E83832CF1D4463C5006C91F7 /* CP-jul23-2.gpx */; };
+		E809DFB51D459A2B007DF453 /* CP-jul20-3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E809DFB21D459A2B007DF453 /* CP-jul20-3.gpx */; };
+		E809DFB61D459A2B007DF453 /* CP-jul23-2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E809DFB31D459A2B007DF453 /* CP-jul23-2.gpx */; };
+		E809DFB71D459A2B007DF453 /* CP-pos-3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E809DFB41D459A2B007DF453 /* CP-pos-3.gpx */; };
 		E838FDBB1D3DBC510090F039 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E838FDBA1D3DBC510090F039 /* main.m */; };
 		E838FDBE1D3DBC510090F039 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E838FDBD1D3DBC510090F039 /* AppDelegate.m */; };
 		E838FDC11D3DBC510090F039 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E838FDC01D3DBC510090F039 /* ViewController.m */; };
@@ -29,25 +18,8 @@
 		E838FDC91D3DBC510090F039 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E838FDC71D3DBC510090F039 /* LaunchScreen.storyboard */; };
 		E838FDD41D3DBC510090F039 /* FakeGPSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E838FDD31D3DBC510090F039 /* FakeGPSTests.m */; };
 		E838FDDF1D3DBC510090F039 /* FakeGPSUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E838FDDE1D3DBC510090F039 /* FakeGPSUITests.m */; };
-		E838FDF71D3DBCC10090F039 /* course-jul18-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E838FDEE1D3DBCC10090F039 /* course-jul18-1.gpx */; };
-		E838FDF81D3DBCC10090F039 /* course-jul18-2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E838FDEF1D3DBCC10090F039 /* course-jul18-2.gpx */; };
-		E838FDF91D3DBCC10090F039 /* course-jul18-3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E838FDF01D3DBCC10090F039 /* course-jul18-3.gpx */; };
-		E838FDFA1D3DBCC10090F039 /* course-jul18-4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E838FDF11D3DBCC10090F039 /* course-jul18-4.gpx */; };
-		E838FDFF1D3DBCC10090F039 /* testCP.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E838FDF61D3DBCC10090F039 /* testCP.gpx */; };
-		E838FE011D3DBF3C0090F039 /* course-jul18-5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E838FE001D3DBF3C0090F039 /* course-jul18-5.gpx */; };
-		E85AE0C81D4152C90073EB8B /* while-plains-3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E85AE0C71D4152C90073EB8B /* while-plains-3.gpx */; };
-		E85AE0CA1D415FB00073EB8B /* argus.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E85AE0C91D415FB00073EB8B /* argus.gpx */; };
-		E897FB9A1D40869E00496302 /* singleSpot-CP-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E897FB991D40869E00496302 /* singleSpot-CP-1.gpx */; };
-		E8B222F51D40550B00501E36 /* white-plains-2k.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8B222F31D40550B00501E36 /* white-plains-2k.gpx */; };
-		E8B222F61D40550B00501E36 /* white-plains.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8B222F41D40550B00501E36 /* white-plains.gpx */; };
-		E8B222F81D40551E00501E36 /* testCP2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8B222F71D40551E00501E36 /* testCP2.gpx */; };
-		E8B222FA1D40552300501E36 /* course-jul18-6.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8B222F91D40552300501E36 /* course-jul18-6.gpx */; };
 		E8C5E85E1D3ECBBD00E7F03F /* 1155.png in Resources */ = {isa = PBXBuildFile; fileRef = E8C5E85C1D3ECBBC00E7F03F /* 1155.png */; };
 		E8C5E85F1D3ECBBD00E7F03F /* icon@120.png in Resources */ = {isa = PBXBuildFile; fileRef = E8C5E85D1D3ECBBC00E7F03F /* icon@120.png */; };
-		E8C5E8611D3F1F1800E7F03F /* course-jul19-2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8C5E8601D3F1F1800E7F03F /* course-jul19-2.gpx */; };
-		E8CF15161D41AC03004AA838 /* h106-jul21-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8CF15151D41AC03004AA838 /* h106-jul21-1.gpx */; };
-		E8D4E7FF1D410AA200DD4977 /* startuepark.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8D4E7FE1D410AA200DD4977 /* startuepark.gpx */; };
-		E8F26B9F1D426D4300FE5E54 /* cu-jul22.gpx in Resources */ = {isa = PBXBuildFile; fileRef = E8F26B9E1D426D4300FE5E54 /* cu-jul22.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,20 +40,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E80693951D3FCE6500371213 /* columbia-law.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "columbia-law.gpx"; sourceTree = "<group>"; };
-		E80693971D3FCF1A00371213 /* theChurch.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = theChurch.gpx; sourceTree = "<group>"; };
-		E80C5EE11D451CBD009A77E7 /* 106Bsp-church.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "106Bsp-church.gpx"; sourceTree = "<group>"; };
-		E80C5EEB1D4520E7009A77E7 /* 106Bsp-riversd.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "106Bsp-riversd.gpx"; sourceTree = "<group>"; };
-		E80C5EED1D4520ED009A77E7 /* riversd-106Bsp.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "riversd-106Bsp.gpx"; sourceTree = "<group>"; };
-		E80C5EEF1D452615009A77E7 /* h106-jul24-1f.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "h106-jul24-1f.gpx"; sourceTree = "<group>"; };
-		E80C5EF11D452A52009A77E7 /* h106-jul24-2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "h106-jul24-2.gpx"; sourceTree = "<group>"; };
-		E80C5EF31D452B3C009A77E7 /* h106-jul24-2-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "h106-jul24-2-1.gpx"; sourceTree = "<group>"; };
-		E8283CB91D4070D200DE5CDA /* CP-jul20-3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "CP-jul20-3.gpx"; sourceTree = "<group>"; };
-		E8283CBA1D4070D200DE5CDA /* CP-jul20-2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "CP-jul20-2.gpx"; sourceTree = "<group>"; };
-		E8283CBB1D4070D200DE5CDA /* CP-jul20-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "CP-jul20-1.gpx"; sourceTree = "<group>"; };
-		E83832CB1D445786006C91F7 /* CP-jul23-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "CP-jul23-1.gpx"; sourceTree = "<group>"; };
-		E83832CD1D4460B0006C91F7 /* CP-pos-3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "CP-pos-3.gpx"; sourceTree = "<group>"; };
-		E83832CF1D4463C5006C91F7 /* CP-jul23-2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "CP-jul23-2.gpx"; sourceTree = "<group>"; };
+		E809DFB21D459A2B007DF453 /* CP-jul20-3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "CP-jul20-3.gpx"; path = "GPX/CP-jul20-3.gpx"; sourceTree = "<group>"; };
+		E809DFB31D459A2B007DF453 /* CP-jul23-2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "CP-jul23-2.gpx"; path = "GPX/CP-jul23-2.gpx"; sourceTree = "<group>"; };
+		E809DFB41D459A2B007DF453 /* CP-pos-3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "CP-pos-3.gpx"; path = "GPX/CP-pos-3.gpx"; sourceTree = "<group>"; };
 		E838FDB61D3DBC510090F039 /* FakeGPS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FakeGPS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E838FDBA1D3DBC510090F039 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E838FDBC1D3DBC510090F039 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -98,26 +59,9 @@
 		E838FDDA1D3DBC510090F039 /* FakeGPSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FakeGPSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E838FDDE1D3DBC510090F039 /* FakeGPSUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FakeGPSUITests.m; sourceTree = "<group>"; };
 		E838FDE01D3DBC510090F039 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E838FDEE1D3DBCC10090F039 /* course-jul18-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "course-jul18-1.gpx"; path = "../gpstest/course-jul18-1.gpx"; sourceTree = "<group>"; };
-		E838FDEF1D3DBCC10090F039 /* course-jul18-2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "course-jul18-2.gpx"; path = "../gpstest/course-jul18-2.gpx"; sourceTree = "<group>"; };
-		E838FDF01D3DBCC10090F039 /* course-jul18-3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "course-jul18-3.gpx"; path = "../gpstest/course-jul18-3.gpx"; sourceTree = "<group>"; };
-		E838FDF11D3DBCC10090F039 /* course-jul18-4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "course-jul18-4.gpx"; path = "../gpstest/course-jul18-4.gpx"; sourceTree = "<group>"; };
-		E838FDF61D3DBCC10090F039 /* testCP.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = testCP.gpx; path = ../gpstest/testCP.gpx; sourceTree = "<group>"; };
-		E838FE001D3DBF3C0090F039 /* course-jul18-5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "course-jul18-5.gpx"; path = "../../Downloads/course-jul18-5.gpx"; sourceTree = "<group>"; };
 		E838FE021D3DC0060090F039 /* FakeGPS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = FakeGPS.entitlements; sourceTree = "<group>"; };
-		E85AE0C71D4152C90073EB8B /* while-plains-3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "while-plains-3.gpx"; sourceTree = "<group>"; };
-		E85AE0C91D415FB00073EB8B /* argus.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = argus.gpx; sourceTree = "<group>"; };
-		E897FB991D40869E00496302 /* singleSpot-CP-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "singleSpot-CP-1.gpx"; sourceTree = "<group>"; };
-		E8B222F31D40550B00501E36 /* white-plains-2k.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "white-plains-2k.gpx"; sourceTree = "<group>"; };
-		E8B222F41D40550B00501E36 /* white-plains.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "white-plains.gpx"; sourceTree = "<group>"; };
-		E8B222F71D40551E00501E36 /* testCP2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = testCP2.gpx; sourceTree = "<group>"; };
-		E8B222F91D40552300501E36 /* course-jul18-6.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "course-jul18-6.gpx"; sourceTree = "<group>"; };
 		E8C5E85C1D3ECBBC00E7F03F /* 1155.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1155.png; path = FakeGPS/1155.png; sourceTree = "<group>"; };
 		E8C5E85D1D3ECBBC00E7F03F /* icon@120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon@120.png"; path = "FakeGPS/icon@120.png"; sourceTree = "<group>"; };
-		E8C5E8601D3F1F1800E7F03F /* course-jul19-2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "course-jul19-2.gpx"; sourceTree = "<group>"; };
-		E8CF15151D41AC03004AA838 /* h106-jul21-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "h106-jul21-1.gpx"; sourceTree = "<group>"; };
-		E8D4E7FE1D410AA200DD4977 /* startuepark.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = startuepark.gpx; sourceTree = "<group>"; };
-		E8F26B9E1D426D4300FE5E54 /* cu-jul22.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "cu-jul22.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,37 +166,9 @@
 		E8C5E85B1D3EC3B200E7F03F /* GPX */ = {
 			isa = PBXGroup;
 			children = (
-				E80C5EF31D452B3C009A77E7 /* h106-jul24-2-1.gpx */,
-				E80C5EEF1D452615009A77E7 /* h106-jul24-1f.gpx */,
-				E80C5EED1D4520ED009A77E7 /* riversd-106Bsp.gpx */,
-				E80C5EEB1D4520E7009A77E7 /* 106Bsp-riversd.gpx */,
-				E80C5EF11D452A52009A77E7 /* h106-jul24-2.gpx */,
-				E80C5EE11D451CBD009A77E7 /* 106Bsp-church.gpx */,
-				E83832CF1D4463C5006C91F7 /* CP-jul23-2.gpx */,
-				E83832CB1D445786006C91F7 /* CP-jul23-1.gpx */,
-				E8F26B9E1D426D4300FE5E54 /* cu-jul22.gpx */,
-				E8CF15151D41AC03004AA838 /* h106-jul21-1.gpx */,
-				E85AE0C91D415FB00073EB8B /* argus.gpx */,
-				E83832CD1D4460B0006C91F7 /* CP-pos-3.gpx */,
-				E85AE0C71D4152C90073EB8B /* while-plains-3.gpx */,
-				E8D4E7FE1D410AA200DD4977 /* startuepark.gpx */,
-				E897FB991D40869E00496302 /* singleSpot-CP-1.gpx */,
-				E8283CB91D4070D200DE5CDA /* CP-jul20-3.gpx */,
-				E8283CBA1D4070D200DE5CDA /* CP-jul20-2.gpx */,
-				E8283CBB1D4070D200DE5CDA /* CP-jul20-1.gpx */,
-				E80693971D3FCF1A00371213 /* theChurch.gpx */,
-				E80693951D3FCE6500371213 /* columbia-law.gpx */,
-				E8C5E8601D3F1F1800E7F03F /* course-jul19-2.gpx */,
-				E8B222F31D40550B00501E36 /* white-plains-2k.gpx */,
-				E8B222F41D40550B00501E36 /* white-plains.gpx */,
-				E838FE001D3DBF3C0090F039 /* course-jul18-5.gpx */,
-				E838FDEE1D3DBCC10090F039 /* course-jul18-1.gpx */,
-				E838FDEF1D3DBCC10090F039 /* course-jul18-2.gpx */,
-				E838FDF01D3DBCC10090F039 /* course-jul18-3.gpx */,
-				E8B222F71D40551E00501E36 /* testCP2.gpx */,
-				E8B222F91D40552300501E36 /* course-jul18-6.gpx */,
-				E838FDF11D3DBCC10090F039 /* course-jul18-4.gpx */,
-				E838FDF61D3DBCC10090F039 /* testCP.gpx */,
+				E809DFB21D459A2B007DF453 /* CP-jul20-3.gpx */,
+				E809DFB31D459A2B007DF453 /* CP-jul23-2.gpx */,
+				E809DFB41D459A2B007DF453 /* CP-pos-3.gpx */,
 			);
 			name = GPX;
 			sourceTree = "<group>";
@@ -375,42 +291,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E80693961D3FCE6500371213 /* columbia-law.gpx in Resources */,
+				E809DFB51D459A2B007DF453 /* CP-jul20-3.gpx in Resources */,
 				E8C5E85E1D3ECBBD00E7F03F /* 1155.png in Resources */,
+				E809DFB61D459A2B007DF453 /* CP-jul23-2.gpx in Resources */,
+				E809DFB71D459A2B007DF453 /* CP-pos-3.gpx in Resources */,
 				E838FDC91D3DBC510090F039 /* LaunchScreen.storyboard in Resources */,
-				E8F26B9F1D426D4300FE5E54 /* cu-jul22.gpx in Resources */,
-				E83832CC1D445786006C91F7 /* CP-jul23-1.gpx in Resources */,
-				E80C5EF01D452615009A77E7 /* h106-jul24-1f.gpx in Resources */,
-				E838FE011D3DBF3C0090F039 /* course-jul18-5.gpx in Resources */,
-				E85AE0C81D4152C90073EB8B /* while-plains-3.gpx in Resources */,
-				E838FDF91D3DBCC10090F039 /* course-jul18-3.gpx in Resources */,
-				E83832CE1D4460B0006C91F7 /* CP-pos-3.gpx in Resources */,
-				E8B222F61D40550B00501E36 /* white-plains.gpx in Resources */,
 				E838FDC61D3DBC510090F039 /* Assets.xcassets in Resources */,
-				E8283CBD1D4070D200DE5CDA /* CP-jul20-2.gpx in Resources */,
-				E8B222FA1D40552300501E36 /* course-jul18-6.gpx in Resources */,
 				E8C5E85F1D3ECBBD00E7F03F /* icon@120.png in Resources */,
-				E897FB9A1D40869E00496302 /* singleSpot-CP-1.gpx in Resources */,
 				E838FDC41D3DBC510090F039 /* Main.storyboard in Resources */,
-				E8C5E8611D3F1F1800E7F03F /* course-jul19-2.gpx in Resources */,
-				E838FDF81D3DBCC10090F039 /* course-jul18-2.gpx in Resources */,
-				E838FDF71D3DBCC10090F039 /* course-jul18-1.gpx in Resources */,
-				E80C5EEE1D4520ED009A77E7 /* riversd-106Bsp.gpx in Resources */,
-				E80C5EF21D452A52009A77E7 /* h106-jul24-2.gpx in Resources */,
-				E85AE0CA1D415FB00073EB8B /* argus.gpx in Resources */,
-				E80C5EE21D451CBD009A77E7 /* 106Bsp-church.gpx in Resources */,
-				E8D4E7FF1D410AA200DD4977 /* startuepark.gpx in Resources */,
-				E8283CBE1D4070D200DE5CDA /* CP-jul20-1.gpx in Resources */,
-				E80C5EEC1D4520E7009A77E7 /* 106Bsp-riversd.gpx in Resources */,
-				E83832D01D4463C5006C91F7 /* CP-jul23-2.gpx in Resources */,
-				E8283CBC1D4070D200DE5CDA /* CP-jul20-3.gpx in Resources */,
-				E80C5EF41D452B3C009A77E7 /* h106-jul24-2-1.gpx in Resources */,
-				E838FDFF1D3DBCC10090F039 /* testCP.gpx in Resources */,
-				E8CF15161D41AC03004AA838 /* h106-jul21-1.gpx in Resources */,
-				E8B222F51D40550B00501E36 /* white-plains-2k.gpx in Resources */,
-				E80693981D3FCF1A00371213 /* theChurch.gpx in Resources */,
-				E838FDFA1D3DBCC10090F039 /* course-jul18-4.gpx in Resources */,
-				E8B222F81D40551E00501E36 /* testCP2.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
