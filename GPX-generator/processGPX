@@ -1,0 +1,5 @@
+#!/bin/bash
+sed -i.bak -e '6,16d' $1
+sed -i.bak 's/<\/rte>//' $1
+sed -i.bak "s/rtept/wpt/g" $1
+rm -f $1.bak
